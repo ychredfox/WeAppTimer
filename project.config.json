@@ -9,8 +9,8 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.9.1",
-	"appid": "touristappid",
-	"projectname": "timer",
+	"appid": "wx941257e70c0bda63",
+	"projectname": "WeAppTimer",
 	"condition": {
 		"search": {
 			"current": -1,

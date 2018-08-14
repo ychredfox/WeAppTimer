@@ -6,8 +6,8 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#3197ed",
-    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "YCH",
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
